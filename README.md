@@ -10,9 +10,7 @@ A brief description of your project.
 - [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
@@ -32,8 +30,24 @@ These instructions will help you get a copy of the project up and running on you
 
 ```bash
 git clone https://github.com/your-username/your-repository.git
+```
 
 Change into the project directory:
 
 ```bash
-cd your-repository
+cd vite-react-tailwind
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+###Usage
+
+```bash
+npm run dev
+```
+
+Visit http://localhost:3000 in your browser.
