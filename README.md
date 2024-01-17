@@ -33,3 +33,7 @@ These instructions will help you get a copy of the project up and running on you
 ```bash
 git clone https://github.com/your-username/your-repository.git
 
+Change into the project directory:
+
+```bash
+cd your-repository
