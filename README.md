@@ -29,7 +29,7 @@ These instructions will help you get a copy of the project up and running on you
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone git@github.com:deeraj-balamurugan/vite-react-tailwind.git
 ```
 
 Change into the project directory:
@@ -44,7 +44,7 @@ Install dependencies:
 npm install
 ```
 
-###Usage
+## Usage
 
 ```bash
 npm run dev
