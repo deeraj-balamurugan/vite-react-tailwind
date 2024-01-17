@@ -9,6 +9,7 @@ A brief description of your project.
 
 - [Features](#features)
 - [Getting Started](#getting-started)
+- [Installation](#installation)
 - [Usage](#usage)
 
 
@@ -24,7 +25,7 @@ These instructions will help you get a copy of the project up and running on you
 
 - List any prerequisites or dependencies the project requires to run.
 
-### Installation
+## Installation
 
 1. Clone the repository:
 
